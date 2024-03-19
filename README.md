@@ -1,5 +1,4 @@
-# weichieh.huang.github.io
-Wei's profile
+#Wei's profile
 
 ## About
 Doctoral candidate at the TU Munich.
